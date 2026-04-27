@@ -1,0 +1,19 @@
+13-React-JSX-Portfolio/
+├─ public/
+│  ├─ index.html
+│  └─ favicon.ico
+├─ src/
+│  ├─ assets/
+│  │  └─ profile.jpg   ← your profile image
+│  ├─ components/
+│  │  ├─ Header.jsx
+│  │  ├─ Footer.jsx
+│  │  ├─ Hero.jsx
+│  │  ├─ About.jsx
+│  │  ├─ Projects.jsx
+│  │  └─ Contact.jsx
+│  ├─ App.jsx
+│  ├─ index.js
+│  └─ styles.css
+├─ package.json
+└─ README.md
